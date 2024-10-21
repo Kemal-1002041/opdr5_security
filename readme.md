@@ -6,9 +6,7 @@ Deze applicatie maakt gebruik van de `cryptography`-bibliotheek in Python om ber
 
 - [Overzicht](#overzicht)
 - [Installatie](#installatie)
-- [Gebruik](#gebruik)
-- [Encryptiemethode](#encryptiemethode)
-- [Toekomstige uitbreidingen](#toekomstige-uitbreidingen)
+
 
 ## Overzicht
 
